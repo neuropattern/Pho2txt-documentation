@@ -9,6 +9,8 @@ Server and database are going to be deployed on Heroku. Heroku is a platform as 
 ### Client
 Client part as extension can be downloaded from the [web-page](https://www.pho2txt.herokuapp.com/get-app) and installed to local Chrome extension market.
 
+![](https://github.com/neuropattern/Pho2txt-documentation/blob/master/type_of_deployment.PNG)
+
 ---
 
 ## Technology justification
@@ -38,8 +40,23 @@ To implement recognition module we have chosen OpenCV. First reason why is becau
 
 ---
 
-## "To Be" architecture
+## Crosscutting concerns
+
+- **Exception management**: ensure the stability of the application state after a crash.
+- **Validation**: input validation.
 
 ---
 
-## "As Is" architecture
+## "To Be" VS "As Is" architecture
+
+![](https://github.com/neuropattern/Pho2txt-documentation/blob/master/deployment_diagrams.jpg)
+
+---
+
+## Conclusion
+
+We should:
+- **Difine contacts**: define contracts for each component
+- **Limit functionality**: component should perform defined functions/methods
+
+According deployment diagram we change framework (all benefits describe above). We decide add web-page for more convenience.
