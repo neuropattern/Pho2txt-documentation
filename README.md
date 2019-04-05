@@ -50,13 +50,14 @@ To implement recognition module we have chosen OpenCV. First reason why is becau
 ## "To Be" VS "As Is" architecture
 
 ![](https://github.com/neuropattern/Pho2txt-documentation/blob/master/deployment_diagrams.jpg)
+![](https://github.com/neuropattern/Pho2txt-documentation/blob/master/components.png)
 
 ---
 
 ## Conclusion
 
 We should:
-- **Difine contacts**: define contracts for each component
+- **Define contacts**: define contracts for each component
 - **Limit functionality**: component should perform defined functions/methods
 
-According deployment diagram we change framework (all benefits describe above). We decide add web-page for more convenience.
+According to deployment and component diagrams we have to change server framework. Flask is more lightweight, it does not need to be configured at the start and does not include special settings and middleware, which in our project will not be useful and will load the server in vain. We decided add web-page for more convenience.
