@@ -62,5 +62,5 @@ We should:
 - **Define contacts**: define contracts for each component
 - **Limit functionality**: component should perform defined functions/methods
 
-According to deployment and component diagrams we have to change server framework. Flask is more lightweight, it does not need to be configured at the start and does not include special settings and middleware, which in our project will not be useful and will load the server in vain. We decided add web-page for more convenience.
-We have to refactor recognition module (extract classes) to make it more structural and reduce cohesion. Also it must to provide simple interface to facilitate interaction between server and module.
+According to deployment and component diagrams we have to change server framework. Flask is more lightweight, it does not need to be configured at the start and does not include special settings and middleware, which in our project will not be useful and will load the server in vain. We decided add web-page for more convenience (ID - 3).
+We have to refactor recognition module (extract classes, ID - 2) to make it more structural and reduce cohesion. Also it must to provide simple interface to facilitate interaction between server and module (ID - 1).
