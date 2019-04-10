@@ -1,6 +1,8 @@
 # Pho2txt description
 Pho2txt is a web application implemented as extension for Chrome browser. The application architecture represents client-server model. Text recognition can require high computer capacity so this architecture model lets transfer all computation to one high performance server and make our application more available.
 
+![Pair programming experience](https://github.com/neuropattern/Pho2txt-documentation/blob/master/PairProgramming.md)
+
 ---
 ## Application deployment
 ### Server
