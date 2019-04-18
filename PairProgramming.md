@@ -1,4 +1,13 @@
-# Pair: Dana Klimova & Alexey Schegrikovich 
+# Сontent: 
+
+1. [Dana Klimova & Alexey Schegrikovich](#DK&AS) <br>
+2. [Alexei Mairyn & Egor Ptashnik](#AM&EP) <br>
+3. [Dana Klimova & Egor Ptashnik](#DK&EP) <br>
+4. [Egor Ptashnik & Alexei Schegrikovich](#DK&EP) <br>
+
+
+
+# Pair: Dana Klimova & Alexey Schegrikovich <a name="DK&AS"> </a> 
 
 ## Task: 
 Implement image filtering:
@@ -21,7 +30,7 @@ We have choosed **as equals** style for our pair.
 ## Are you going to use pair programming for other tasks?
 Yes, because pair programming enhance performance and work quality of each person.
 
-# Pair: Alexei Mairyn & Egor Ptashnik 
+# Pair: Alexei Mairyn & Egor Ptashnik <a name="AM&EP"> </a> 
 
 ## Task: 
 Implement image filtering:
@@ -47,7 +56,7 @@ own tasks.
 Yes, we are, because it helps to learn novice faster (sometimes novice can teach something teacher) and makes better communication in team.
 
 
-# Pair: Dana Klimova & Egor Ptashnik 
+# Pair: Dana Klimova & Egor Ptashnik <a name="DK&EP"> </a> 
 
 ## Task: 
 Improve image filtering:
@@ -69,33 +78,8 @@ We have choosed **remote** style for our pair.
 ## Are you going to use pair programming for other tasks?
 Yes, because pair programming enhance performance and work quality of each person.
 
-# Pair: Alexei Mairyn & Egor Ptashnik 
 
-## Task: 
-Implement image filtering:
-- Improve code quality(remove unnecessary modules, remove side effects from change store function).
-- Create page for extended settings for our app.
-- Redesign extension(change button color, made similar extension and page designs).
- 
-## Style: 
-We have choosed **Expert-Novice** style for our pair because one of us didn't know all approaches of ReactJS and JavaScript technologies but would like to learn it.  
- 
-## Result: 
-#### Done:
-We improved code quality(remove unnecessary modules, remove side effects from change store function), create page for extended settings for our app,
-redesigned extension(change button color, made similar extension and page designs).
-#### Impression:
-Together we did less mistakes and we shared knowledge between each other.
-  
-## Failed to do: 
-We failed to add button to the context menu and add image to settings page. Sometimes we distracted and one of us done his
-own tasks.
- 
-## Are you going to use pair programming for other tasks?
-Yes, we are, because it helps to learn novice faster (sometimes novice can teach something teacher) and makes better communication in team.
-
-
-# Pair: Egor Ptashnik & Alexei Schegrikovich 
+# Pair: Egor Ptashnik & Alexei Schegrikovich <a name="EP&AS"> </a> 
 
 ## Task: 
 Implement image filtering:
