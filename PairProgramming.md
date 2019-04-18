@@ -2,8 +2,9 @@
 
 1. [Dana Klimova & Alexey Schegrikovich](#DK&AS) <br>
 2. [Alexei Mairyn & Egor Ptashnik](#AM&EP) <br>
-3. [Dana Klimova & Egor Ptashnik](#DK&EP) <br>
-4. [Egor Ptashnik & Alexei Schegrikovich](#DK&EP) <br>
+3. [Dana Klimova & Alexei Mairyn](#DK&AM) <br>
+4. [Dana Klimova & Egor Ptashnik](#DK&EP) <br>
+5. [Egor Ptashnik & Alexei Schegrikovich](#DK&EP) <br>
 
 
 
@@ -56,7 +57,7 @@ own tasks.
 Yes, we are, because it helps to learn novice faster (sometimes novice can teach something teacher) and makes better communication in team.
 
 
-# Pair: Dana Klimova & Egor Ptashnik <a name="DK&EP"> </a> 
+# Pair: Dana Klimova & Alexei Mairyn <a name="DK&AM"> </a> 
 
 ## Task: 
 Improve image filtering:
@@ -64,7 +65,7 @@ Improve image filtering:
 - Before and after retinex perform discrete cosine transform
  
 ## Style: 
-We have choosed **remote** style for our pair.  
+We have choosed **Expert-Novice** style for our pair.  
  
 ## Result: 
 #### Done: 
@@ -77,6 +78,27 @@ We have choosed **remote** style for our pair.
  
 ## Are you going to use pair programming for other tasks?
 Yes, because pair programming enhance performance and work quality of each person.
+
+
+# Pair: Dana Klimova & Egor Ptashnik  <a name="DK&EP"> </a> 
+
+## Task: 
+Change server framework (from Django to Flask)
+ 
+## Style: 
+We have choosed **remote** style for our pair.  
+ 
+## Result: 
+#### Done: 
+ We changed our server framework. 
+#### Impression: 
+ Egor has more knowledge and experience in web development, so he shared his experience with Dana. It was helpful for Egor(improve soft skills) and Dana(improve programming skills). Modern technologies allow remote pair programming almost as effectively as if you sit side by side.
+  
+## Failed to do: 
+ We correct changed server framework.
+ 
+## Are you going to use pair programming for other tasks?
+Yes, because pair programming enhance performance and work quality of each person. It helps to share experiences and skills. 
 
 
 # Pair: Egor Ptashnik & Alexei Schegrikovich <a name="EP&AS"> </a> 
