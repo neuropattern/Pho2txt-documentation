@@ -5,6 +5,7 @@
 3. [Dana Klimova & Alexei Mairyn](#DK&AM) <br>
 4. [Dana Klimova & Egor Ptashnik](#DK&EP) <br>
 5. [Egor Ptashnik & Alexei Schegrikovich](#DK&EP) <br>
+6. [Alexei Mairyn & Alexei Schegrikovich](#AM&AS) <br>
 
 
 
@@ -123,3 +124,25 @@ We failed to fix server bug with incorrect file opening on different operating s
  
 ## Are you going to use pair programming for other tasks?
 Yes, we are, because it's useful for our project and we see advantages of pair programming and enjoy by this process.
+
+
+# Pair: Alexei Mairyn & Alexei Schegrikovich <a name="AM&AS"> </a> 
+
+## Task: 
+1. Implement endpoint.
+2. Realizing image download.
+
+## Style: 
+We have choosed **Expert-Novice** style for our pair.  
+ 
+## Result:
+#### Done:
+We implemented endpoint of our service.
+#### Impression:
+Knowledges about features of realization contribute to designing and writing system in better quality. 
+
+## Failed to do: 
+We failed to realize image download from remote servers.
+ 
+## Are you going to use pair programming for other tasks?
+Yes, we are, because it's help us to improve technical skills and abilities.
