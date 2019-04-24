@@ -3,6 +3,8 @@ Pho2txt is a web application implemented as extension for Chrome browser. The ap
 
 [Pair programming experience](https://github.com/neuropattern/Pho2txt-documentation/blob/master/PairProgramming.md)
 
+[Techical debt analysis](https://github.com/neuropattern/Pho2txt-documentation/blob/master/TechnicalDebt.md)
+
 ---
 ## Application deployment
 ### Server
