@@ -12,13 +12,13 @@
 9. Lack of test environments: **+**
 10. Long build-test cycle & lack of continuous integration: **-**  
 ## The solution to technical debt 
-1. Code refactoring (**STOP WRITING CRAPPY CODE AND GRADUALLY CLEAN UP THE OLD ONE.**):
+1. Code refactoring: **STOP WRITING CRAPPY CODE AND GRADUALLY CLEAN UP THE OLD ONE.** (ID 15):
    * lack of duplicate code, spend less time to work with code;
    * value: 15.
-2. Add tests environments:
+2. Add tests environments (ID 16):
     * tests should cover main functionality(this features have story metric value more than 20 points);
     * value: 15.
-3. Add automation deployment:
+3. Add automation deployment (ID 17):
     * reduction of time to deployment;
     * value: 20.    
 ## Technical debt vs not implemented features and Conclusion
